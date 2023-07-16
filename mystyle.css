@@ -1,0 +1,30 @@
+#initialheading h1 {
+    text-align: center;
+    font-size: 50px;
+}
+#initialheading p {
+    text-align: center;
+    font-size: 24px;
+}
+
+.section{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section h2{
+    font-size: 40px;
+    margin-left: 20px;
+}
+.section p {
+    text-align: left;
+    font-size: 24px;
+}
+.section img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#paraimg {
+    text-align: "justify";
+}
